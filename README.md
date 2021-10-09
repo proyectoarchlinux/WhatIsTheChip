@@ -26,7 +26,7 @@ Es un menú, donde seleccionamos modelo del conjunto de chips enumerados como 1,
 
 Tipeamos, mayusculas, el modelo de la tarjetavgráfica sin espacios.
 
-`RTX2060, RTX2060S (Super), RTX2080TI`
+`RTX2060, RTX2060S (Super), RTX2080TI, HD7970, RXVEGA64, R9FURY`
 
 Si tipeamos RTX nos muestra el listadod e todas las tarjetas RTX, si damos enter sin mas, muestra el listado completo.
 
