@@ -19,3 +19,17 @@ Dar permisos de ejecución:
 Lanzar el programa desde el directorio:
 
 `./WIC.sh`
+
+# Uso del programa:
+
+Es un menú, donde seleccionamos modelo del conjunto de chips enumerados como 1, 2, el tercero será apra salir de programa.
+
+Tipeamos, mayusculas, el modelo de la tarjetavgráfica sin espacios.
+
+`RTX2060, RTX2060S (Super), RTX2080TI`
+
+Si tipeamos RTX nos muestra el listadod e todas las tarjetas RTX, si damos enter sin mas, muestra el listado completo.
+
+A continuación la DEMO en Youtube:
+
+> DEMO: <a>https://bit.ly/3alkbTE</a>
